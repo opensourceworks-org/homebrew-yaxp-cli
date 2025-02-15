@@ -1,4 +1,4 @@
-class MyRustCli < Formula
+class YaxpCli < Formula
     desc "<yaxp ⚡> Yet Another XSD Parser"
     homepage "https://github.com/opensourceworks-org/homebrew-yaxp-cli"
     url "https://github.com/opensourceworks-org/homebrew-yaxp-cli/releases/download/v0.2.2/macos-arm64-v0.2.2.tar.gz"
